@@ -1,0 +1,22 @@
+*{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.header{
+  border: solid 1px black;
+  border-radius: 7px;
+  height: 7em;
+  width: 100%;
+  margin-top: 1em;
+  margin-left, margin-right: 1em;
+}
+
+.header-text{
+  font-size: 2.7em;
+  float: left;
+}
+
+.date-time{
+  float: right;
+  font-size: 2em;
+}
